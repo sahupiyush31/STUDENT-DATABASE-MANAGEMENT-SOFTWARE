@@ -224,7 +224,7 @@ def export(): # We keep 'cursor' as an argument
 
 def menu():
     
-    print('----------STUDENT DATABSE MANAGEMENT SYSTEM BY PIYUSH SAHU AND SAYONI SAHU----------')
+    print('----------STUDENT DATABSE MANAGEMENT SYSTEM BY PIYUSH SAHU----------')
     print('----(Using Pickle File + MySQL Database + CSV Export)----')
     print('----1.Add student (Pickle + SQL)---- ')
     print('----2.Display all the added students (from Pickle)---- ')
