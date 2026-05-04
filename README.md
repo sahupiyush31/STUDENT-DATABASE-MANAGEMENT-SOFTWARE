@@ -1,2 +1,28 @@
-# STUDENT-DATABASE-MANAGEMENT-SOFTWARE
-Student Database Management System built using Python that integrates Pickle file storage, MySQL database operations, and CSV export functionality. The system allows users to add, view, search, update, delete, and export student records through a menu-driven interface.
+# 🎓 Student Database Management System
+
+A Python-based student database system that supports file handling (Pickle), MySQL integration, and CSV export functionality.
+
+---
+
+## 🚀 Features
+- Add student records
+- View all records
+- Search records
+- Update existing data
+- Delete records
+- Export data to CSV
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- MySQL
+- CSV Handling
+- Pickle (File Storage)
+
+---
+
+## ▶️ How to Run
+1. Install Python
+2. Install MySQL
+3. Run the Program
