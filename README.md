@@ -26,3 +26,8 @@ A Python-based student database system that supports file handling (Pickle), MyS
 1. Install Python
 2. Install MySQL
 3. Run the Program
+
+---
+
+## 🎯 Purpose
+This project was developed as a Class 12 project to demonstrate file handling, database integration, and CRUD operations using Python and MySQL.
